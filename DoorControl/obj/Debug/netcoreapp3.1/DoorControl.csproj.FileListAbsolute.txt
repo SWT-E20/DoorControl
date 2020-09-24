@@ -8,3 +8,4 @@ C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\Door
 C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.AssemblyInfo.cs
 C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.dll
 C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.pdb
+C:\Users\mvraa\Source\Repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.csprojAssemblyReference.cache
