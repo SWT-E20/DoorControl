@@ -1,0 +1,10 @@
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\bin\Debug\netcoreapp3.1\DoorControl.exe
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\bin\Debug\netcoreapp3.1\DoorControl.deps.json
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\bin\Debug\netcoreapp3.1\DoorControl.runtimeconfig.json
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\bin\Debug\netcoreapp3.1\DoorControl.runtimeconfig.dev.json
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\bin\Debug\netcoreapp3.1\DoorControl.dll
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\bin\Debug\netcoreapp3.1\DoorControl.pdb
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.AssemblyInfoInputs.cache
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.AssemblyInfo.cs
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.dll
+C:\Users\mvraa\source\repos\DoorControl\DoorControl\obj\Debug\netcoreapp3.1\DoorControl.pdb
